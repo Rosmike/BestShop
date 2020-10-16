@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0df8066-8652-482d-9dcc-8d9cab36b69e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixD0Cft4cQnuEacSGBeRZgqBnN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0df8066-8652-482d-9dcc-8d9cab36b69e" name="Default Changelist" comment="" />
+      <created>1602840125989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602840125989</updated>
+      <workItem from="1602840128363" duration="2537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="170" key="GridCell.Tab.0.bottom" timestamp="1602840219710">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1259" height="170" key="GridCell.Tab.0.bottom/0.23.1280.735/-325.-1057.1920.1057@0.23.1280.735" timestamp="1602840219710" />
+    <state width="1259" height="170" key="GridCell.Tab.0.center" timestamp="1602840219707">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1259" height="170" key="GridCell.Tab.0.center/0.23.1280.735/-325.-1057.1920.1057@0.23.1280.735" timestamp="1602840219707" />
+    <state width="1259" height="170" key="GridCell.Tab.0.left" timestamp="1602840219706">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1259" height="170" key="GridCell.Tab.0.left/0.23.1280.735/-325.-1057.1920.1057@0.23.1280.735" timestamp="1602840219706" />
+    <state width="1259" height="170" key="GridCell.Tab.0.right" timestamp="1602840219709">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1259" height="170" key="GridCell.Tab.0.right/0.23.1280.735/-325.-1057.1920.1057@0.23.1280.735" timestamp="1602840219709" />
+    <state x="141" y="29" key="SettingsEditor" timestamp="1602841303414">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="141" y="29" key="SettingsEditor/0.23.1280.735/-325.-1057.1920.1057@0.23.1280.735" timestamp="1602841303414" />
+  </component>
+</project>

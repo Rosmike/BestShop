@@ -1,0 +1,82 @@
+:root { /*definiuję zmienne z których będę korzystał w projekcie */
+    --color-primary: #08A6E4;
+    --color-primary-shadow: rgba(7, 172, 230, .16);
+    --color-redish: #FB3B64;
+    --color-green: #55DFB4;
+    --color-black: #000000;
+    --color-grey: #A5A5A5;
+    --color-light-grey: #F7F7F7;
+    --color-white: #FFFFFF;
+    --font-open-sans: 'Open Sans', sans-serif;
+    --font-raleway: 'Raleway', sans-serif;
+}
+
+* {
+    box-sizing: border-box; /*ustawiam border box dla całej strony*/
+}
+
+body {
+    font-family: var(--font-open-sans); /*przypisuję font open sans do całego body*/
+}
+
+a {
+    text-decoration: none; /*usuwam podkreślenie dla wszystkich linków*/
+}
+
+.container { /*nasz konterner w najszerszym punkcie będzie miał 1352px*/
+    width: 1352px;
+    margin: 0 auto;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+
+.logo {
+    font-family: var(--font-raleway);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--color-primary);
+}
+
+.header__nav {
+    display: flex;
+    list-style: none;
+
+}
+
+.nav__link {
+    color: var(--color-grey);
+    font-weight: 700;
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    padding: 28px 18px 22px;
+    border-bottom: 4px solid transparent;
+    letter-spacing: 0.1875rem;
+}
+
+.nav__link:hover {
+    color: var(--color-black);
+    border-color: var(--color-primary);
+}
+
+.nav__element:last-child {
+    padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
