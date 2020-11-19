@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0df8066-8652-482d-9dcc-8d9cab36b69e" name="Default Changelist" comment="" />
+    <list default="true" id="f0df8066-8652-482d-9dcc-8d9cab36b69e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scss/elements/_benefits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_opening.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/elements/_statistics.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +29,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ixD0Cft4cQnuEacSGBeRZgqBnN" />
   <component name="ProjectViewState">
@@ -40,6 +58,11 @@
       <option name="presentableId" value="Default" />
       <updated>1602840125989</updated>
       <workItem from="1602840128363" duration="2537000" />
+      <workItem from="1603197260636" duration="80000" />
+      <workItem from="1603700215578" duration="2054000" />
+      <workItem from="1603741154416" duration="1598000" />
+      <workItem from="1605796827175" duration="217000" />
+      <workItem from="1605804295285" duration="662000" />
     </task>
     <servers />
   </component>

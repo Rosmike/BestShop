@@ -4,6 +4,8 @@ const sourcemaps = require('gulp-sourcemaps');
 const autoprefixer = require('gulp-autoprefixer');
 const browserSync = require('browser-sync').create();
 const notifier = require('node-notifier');
+const entryPath = ".";
+
 
 
 sass.compiler = require('sass');
