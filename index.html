@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<header class="header">
+    <header class="header">
     <div class="header__container container">
         <a href="#" class="logo">BestShop</a>
         <nav>
@@ -31,7 +31,7 @@
     </div>
 </header>
 
-<section class="opening">
+    <section class="opening">
     <div class="opening__content">
         <h1 class="opening__header">Sell More!</h1>
         <p class="opening__heading">Open shop on our platform and increase your sales</p>
@@ -40,7 +40,7 @@
     <img src="assets/background.png" alt="" class="opening__image">
 </section>
 
-<section class="statistics">
+    <section class="statistics">
     <div class="container">
         <h2>The most popular sales platform in country</h2>
 
@@ -72,7 +72,7 @@
     </div>
 </section>
 
-<section class="benefits">
+    <section class="benefits">
     <div class="benefits__container container">
 
         <div class="benefits__single benefits__single--notebook">
@@ -87,12 +87,12 @@
                 <img src="assets/macbook.png" alt="macbook" />
             </div>
         </div>
-        
+
         <div class="benefits__single benefits__single--phone">
             <div class="benefits__text">
                 <h2 class="benefits__title">Your shop is<br>where you are!</h2>
                 <p class="benefits__description">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto eum fugiat omnis? 
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto eum fugiat omnis?
                     Aperiam delectus eius eveniet numquam optio, ratione repellat reprehenderit soluta suscipit veritatis voluptatem.
                 </p>
             </div>
@@ -119,7 +119,7 @@
     </div>
 </section>
 
-<section class="pricing container" id="prices">
+    <section class="pricing container" id="prices">
     <h2>Pricing</h2>
     <div class="pricing__boxes">
         <div class="pricing__box pricing__box--basic">
@@ -176,7 +176,76 @@
         </div>
 </section>
 
-<section class="contact container" id="contact">
+    <section class="calc">
+        <h2>Calculate how much you’ll pay</h2>
+
+        <div class="calc__columns">
+            <form class="calc__form">
+                <div class="calc__input">
+                    <input type="number" class="form__input" id="products" min="1" step="1" placeholder="Products quantity"/>
+                </div>
+                <div class="calc__input">
+                    <input type="number" class="form__input" id="orders" min="1" step="1" placeholder="Estimated orders in month"/>
+                </div>
+                <div class="calc__select" id="package" data-value="">
+                    <div class="select__input">
+                        Choose package
+                    </div>
+
+                    <ul class="select__dropdown">
+                        <li data-value="basic">Basic</li>
+                        <li data-value="professional">Professional</li>
+                        <li data-value="premium">Premium</li>
+                    </ul>
+                </div>
+                <label class="form__checkbox">
+                    <input type="checkbox" id="accounting"/>
+                    <span class="checkbox"></span>
+                    <p class="consent__text">Accounting</p>
+                </label>
+                <label class="form__checkbox">
+                    <input type="checkbox" id="terminal"/>
+                    <span class="checkbox"></span>
+                    <p class="consent__text">Rental of a payment terminal</p>
+                </label>
+            </form>
+
+            <div class="calc__summary">
+                <ul>
+                    <li class="list__item" data-id="products">
+                        <span class="item__type">Products</span>
+                        <span class="item__calc">20 * $0.5</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="orders">
+                        <span class="item__type">Orders</span>
+                        <span class="item__calc">20 * $0.5</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="package">
+                        <span class="item__type">Package</span>
+                        <span class="item__calc">Premium</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="accounting">
+                        <span class="item__type">Accounting</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                    <li class="list__item" data-id="terminal">
+                        <span class="item__type">Terminal</span>
+                        <span class="item__price">$10</span>
+                    </li>
+                </ul>
+                <div class="summary__total" id="total-price">
+                    <span>Total</span>
+                    <span class="total__price">$700</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="contact container" id="contact">
 
     <div class="contact__column">
         <h2 class="contact__title">Any questions?</h2>
@@ -228,7 +297,7 @@
     </div>
 </section>
 
-<footer class="footer">
+    <footer class="footer">
     <div class="footer__container container">
         <div class="footer__info">
             <a href="#" class="logo">BestShop</a>
@@ -240,6 +309,8 @@
         </div>
     </div>
 </footer>
+
+    <script src="js/app.js"></script>
 
 </body>
 </html>

@@ -1,11 +1,17 @@
 @import "generic/reset";
-@import "settings";
+@import "settings/colors";
+@import "settings/fonts";
+@import "settings/index";
+@import "settings/mixins";
 @import "elements/base";
+@import "elements/buttons";
+@import "elements/benefits";
+@import "elements/calculator";
 @import "elements/header";
 @import "elements/opening";
 @import "elements/statistics";
-@import "elements/benefits";
 @import "elements/pricing";
 @import "elements/contact";
 @import "elements/form";
 @import "elements/footer";
+
